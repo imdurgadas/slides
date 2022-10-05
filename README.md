@@ -5,3 +5,4 @@
 - [Golang101](/golang101)
 - [AWS Basics](/aws-basics)
 - [Cloud Intro](/intro-cloud)
+- [Better DevOps](/devops)
