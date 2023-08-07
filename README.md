@@ -8,3 +8,4 @@
 - [Better DevOps](/devops)
 - [Web Development](/webdev)
 - [Serverless](/serverless)
+- [Tech and Beyond](/techandbeyond)
