@@ -9,3 +9,4 @@
 - [Web Development](/webdev)
 - [Serverless](/serverless)
 - [Tech and Beyond](/techandbeyond)
+- [DevOps Workshop](/devops-workshop)
